@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "buuz-hyp5.aternos.me",
-    "port": 35157,
+    "ip": "buuzSMP.aternos.me:46237",
+    "port": 46237,
     "version": "",
     "try-creative": false
   },
